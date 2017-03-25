@@ -5,7 +5,7 @@ $(document).ready(function() {
       callback: function() {
           $("#im").next().hide();
           Typed.new('#caption', {
-            strings: ["Front-end Developer","Back-end Developer","Fullstack Developer"],
+            strings: ["Front-end Developer","Back-end Developer","Full-stack Developer"],
             startDelay: 1000,
             typeSpeed: 50,
             backSpeed: 10
